@@ -19,8 +19,8 @@
                 </Entries>
                 <!-- Sub Menu Entries -->
                 <SubEntries>
-                    <Item subMenuId="file-Боз карданFolder" name="Боз кардани пушаи санад"/>
-                    <Item subMenuId="file-БастанMore" name="Бастани бештар"/>
+                    <Item subMenuId="file-openFolder" name="Боз кардани пушаи санад"/>
+                    <Item subMenuId="file-closeMore" name="Бастани бештар"/>
                     <Item subMenuId="file-recentFiles" name="Файлҳои ахир"/>
                     <Item subMenuId="edit-copyToClipboard"  name="Нусха ба миёнгири табодул"/>
                     <Item subMenuId="edit-indent" name="Лаба додан"/>
@@ -94,7 +94,7 @@
                     <Item id="42005" name="&amp;Часбондан"/>
                     <Item id="42006" name="&amp;Ҳазф"/>
                     <Item id="42007" name="&amp;Интихоби ҳама"/>
-					<Item id="42020" name="Шурӯъ/Поёни интихоб"/>
+		    <Item id="42020" name="Шурӯъ/Поёни интихоб"/>
                     <Item id="42008" name="Афзоиши лабаи хат"/>
                     <Item id="42009" name="Коҳиши лабаи хат"/>
                     <Item id="42010" name="Такрори хати ҷорӣ"/>
